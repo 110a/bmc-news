@@ -1,0 +1,76 @@
+.logo {
+    width: 233px;
+}
+
+header {
+    /* margin-left: 60px; */
+    /* justify-content: space-between */
+    padding: 60px;
+}
+
+main {
+    margin-left: 118px;
+}
+
+h1 {
+    color: red;
+}
+
+.container {
+    display: flex;
+}
+
+
+
+
+.flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+.news-article {
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+}
+
+.border-yellow {
+    border: 1px solid yellow;
+}
+
+.background-yellow {
+    background-color: yellow;
+}
+
+.read-more {
+    margin-top: 20px;
+}
+
+/* padding */
+.p-3 {
+    padding: 30px;
+}
+
+/* fonts */
+body {
+    font-family: "BPG Mikheil Stefane", sans-serif;
+}
+
+.uppercase {
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
